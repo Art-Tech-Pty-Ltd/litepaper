@@ -43,20 +43,20 @@ Artworks are ranked based on their trading volume, creating a competitive enviro
 
 ## Key Terms and Concepts
 
-### Prints
-In Art.Tech, "prints" refer to the individual tokens of a specific artwork. When an artist mints an artwork, they create the first "print." As the artwork is bought and traded, more prints can be minted, increasing the supply. Each print represents partial ownership of the artwork.
+### Mints
+In Art.Tech, "mints" refer to the individual tokens of a specific artwork. When an artist mints an artwork, they create the first "mint." As the artwork is bought and traded, more mints can be created, increasing the supply. Each mint represents partial ownership of the artwork.
 
 ### Rounds
 A "round" in Art.Tech is a competition period with a specific duration. Each round ends when the prize pool reaches a predetermined amount. During a round, artworks compete based on their trading volume. At the end of each round, prizes are distributed, and a new round begins.
 
 ### Bonding Curve
-The bonding curve is a mathematical formula used to determine the price of prints. As more prints of an artwork are minted (bought), the price increases. Conversely, as prints are burned (sold), the price decreases. This creates a dynamic pricing model responsive to supply and demand.
+The bonding curve is a mathematical formula used to determine the price of mints. As more mints of an artwork are created (bought), the price increases. Conversely, as mints are burned (sold), the price decreases. This creates a dynamic pricing model responsive to supply and demand.
 
 ### Trading Volume
-The trading volume for an artwork is the total value of all buy and sell transactions for that artwork's prints during a round. It's used to rank artworks and determine the winner of each round.
+The trading volume for an artwork is the total value of all buy and sell transactions for that artwork's mints during a round. It's used to rank artworks and determine the winner of each round.
 
 ### Prize Pool
-The prize pool is a collection of funds accumulated from a portion of each transaction fee. At the end of each round, this pool is distributed between the winning artist and the holders of the winning artwork's prints.
+The prize pool is a collection of funds accumulated from a portion of each transaction fee. At the end of each round, this pool is distributed between the winning artist and the holders of the winning artwork's mints.
 
 ## Technical Architecture
 
