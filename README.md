@@ -1,4 +1,4 @@
-# Art.Tech Litepaper
+# 📄 Art.Tech Litepaper
 
 ## Introduction
 
