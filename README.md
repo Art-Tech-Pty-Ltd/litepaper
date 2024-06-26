@@ -23,7 +23,7 @@ Created artworks can be minted as ERC-1155 tokens, providing proof of ownership 
 
 ### 3. Dynamic Pricing Model
 
-Art.Tech employs a bonding curve pricing model, adjusting the price of each artwork based on supply and demand.
+Art.Tech employs a bonding curve pricing model, adjusting the price of each artwork based on supply and demand. The bonding curve algorithm is forked from friend.tech. 
 
 ![Price Vs. Supply](price.png "Price Vs. Supply")
 
