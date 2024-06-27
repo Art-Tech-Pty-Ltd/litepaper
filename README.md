@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Art.Tech is a platform that combines generative AI art creation with blockchain technology, creating an ecosystem for artists and collectors. By utilizing smart contracts on the Ethereum blockchain, Art.Tech provides an environment for creating, trading, and investing in digital art.
+Art.Tech is a platform that combines AI-generated art with blockchain technology, allowing artists to create and mint their digital artworks as NFTs. Users can buy, sell, and trade these artworks, with smart contracts ensuring secure transactions and rewarding artists with royalties and prize pools.
 
 ## Platform Overview
 
