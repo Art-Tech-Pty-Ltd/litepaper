@@ -103,7 +103,8 @@ Art.Tech implements several security features:
 
 - Reentrancy guards to prevent exploitation
 - Access control to critical functions
-- Checks to ensure proper fee distribution
+- Proposal & approval process to safeguard against private key leaks
+- 3 x audited including one from: https://hashlock.com/
 
 ## Conclusion
 
